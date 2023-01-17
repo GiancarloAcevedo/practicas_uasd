@@ -1,0 +1,150 @@
+a:link {
+    text-decoration: none;
+    color: #4b4b4b;
+}
+
+p {
+    font-size: 13px;
+    text-align: justify;
+}
+
+.navs1 {    
+    text-align: right;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+body {font-family: verdana;}
+
+.header1 {
+    line-height: 15px;
+    background-color: #e2e2e2;
+}
+
+.megamenu {text-align: right;
+padding-bottom: 30px;
+padding-right: 40px;}
+
+.logoheader1 {padding: 50px 50px 0px 50px;}
+
+a:focus, a:hover {
+    border-bottom: 2px solid;
+    color: #76b900;
+  }
+  
+  a:active {
+    color: #76b900;
+  }
+  
+  a:visited {
+    color: #4b4b4b;}
+
+.tituloh3 {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.articulo1 {    
+    padding-left: 40px;
+
+}
+
+.articulo2 {
+    padding-left: 120px;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+}
+
+
+li {
+    display: inline-block;
+}
+
+.portatil30 {padding-left: 115px;}
+
+.banner2nvidia {
+    padding-top: 60px;
+    padding-left: 10px;
+    text-align:center;
+}
+
+.imgs6 {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.immgs {
+    padding-right: 18px;
+}
+
+.tepodriagst {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.tepodriagst a:focus, a:hover {
+    border-bottom: 2px solid;
+    color: #76b900;
+  }
+
+.descimgs2 {
+    padding-left: 85px;
+}
+
+.descimgs3 {
+    padding-left: 53px;
+}
+
+.descimgs4 {
+    padding-left: 48px;
+}
+
+.descimgs5 {
+    padding-left: 23px;
+}
+
+.descimgs6 {
+    padding-left: 38px;
+}
+
+.descimgs {
+    padding-left: 433px;
+}
+
+a.descimgs1:focus, a:hover {
+    border-bottom: 2px solid;
+    color: #76b900;
+  }
+
+  p{
+    color: #4b4b4b;
+  }
+
+  .footer1 {
+    background-color: #588805;
+  }
+
+.yanclo-jpg {
+    border-radius: 50px 50px 50px 50px;
+  }
+.yanclo{
+    padding-left: 40px;
+    align-items: left;
+}
+
+.bio {
+    color: white;
+}
+
+.giancarlo :visited, :active {
+    color: white;
+}
+
+.texto {
+    float: right;
+}
