@@ -1,0 +1,15 @@
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\bin\Debug\net6.0\Bools.exe
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\bin\Debug\net6.0\Bools.deps.json
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\bin\Debug\net6.0\Bools.runtimeconfig.json
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\bin\Debug\net6.0\Bools.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\bin\Debug\net6.0\Bools.pdb
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.csproj.AssemblyReference.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfoInputs.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfo.cs
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.csproj.CoreCompileInputs.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\refint\Bools.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.pdb
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\Bools.genruntimeconfig.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\Bools\Bools\obj\Debug\net6.0\ref\Bools.dll
