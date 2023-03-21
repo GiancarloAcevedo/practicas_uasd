@@ -1,0 +1,15 @@
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\bin\Debug\net6.0\OperadoresArimeticos.exe
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\bin\Debug\net6.0\OperadoresArimeticos.deps.json
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\bin\Debug\net6.0\OperadoresArimeticos.runtimeconfig.json
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\bin\Debug\net6.0\OperadoresArimeticos.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\bin\Debug\net6.0\OperadoresArimeticos.pdb
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.csproj.AssemblyReference.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.AssemblyInfoInputs.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.AssemblyInfo.cs
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.csproj.CoreCompileInputs.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\refint\OperadoresArimeticos.dll
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.pdb
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\OperadoresArimeticos.genruntimeconfig.cache
+C:\Users\giana\Desktop\PASANTIA\Visual Studio\OperadoresArimeticos\OperadoresArimeticos\obj\Debug\net6.0\ref\OperadoresArimeticos.dll

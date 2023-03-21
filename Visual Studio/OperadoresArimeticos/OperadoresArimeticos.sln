@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresArimeticos", "OperadoresArimeticos\OperadoresArimeticos.csproj", "{6CF82AD5-A18D-40CE-97DB-7128513E0DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF82AD5-A18D-40CE-97DB-7128513E0DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF82AD5-A18D-40CE-97DB-7128513E0DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF82AD5-A18D-40CE-97DB-7128513E0DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF82AD5-A18D-40CE-97DB-7128513E0DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE43A399-3B6B-482B-948C-114B60CD68D7}
+	EndGlobalSection
+EndGlobal
